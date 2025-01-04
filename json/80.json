@@ -1,0 +1,31 @@
+{
+  "name": "Boxed Cats of Testnets #80",
+  "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+  "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/80.png",
+  "dna": "6a48264d6a1247b4f08dab462e82a96ad398ead1",
+  "edition": 80,
+  "date": 1735949980256,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "soon"
+    },
+    {
+      "trait_type": "Box",
+      "value": "Pet Shop"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Stella"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "RIP"
+    },
+    {
+      "trait_type": "Paw",
+      "value": "Plum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

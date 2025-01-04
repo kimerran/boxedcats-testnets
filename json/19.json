@@ -1,0 +1,31 @@
+{
+  "name": "Boxed Cats of Testnets #19",
+  "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+  "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/19.png",
+  "dna": "24b3e74a149968bb643eb4590f1e8744ee82ba80",
+  "edition": 19,
+  "date": 1735949977032,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "soon"
+    },
+    {
+      "trait_type": "Box",
+      "value": "OverseasCatWorker"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Seymour"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Double Vision"
+    },
+    {
+      "trait_type": "Paw",
+      "value": "Kayumanggi"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

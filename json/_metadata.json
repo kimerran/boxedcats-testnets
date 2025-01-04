@@ -1,0 +1,3443 @@
+[
+  {
+    "name": "Boxed Cats of Testnets #1",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/1.png",
+    "dna": "af3ce0f37524c176b3aa7a9b6dd373baeb7029ac",
+    "edition": 1,
+    "date": 1735949975932,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Pet Shop"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Felix"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cuteee"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Stream"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #2",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/2.png",
+    "dna": "bd43a7f4bb9b1b3ad291f695b6283a7e20b4b24b",
+    "edition": 2,
+    "date": 1735949975997,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Summer"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Tom"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Smoke"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #3",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/3.png",
+    "dna": "c64667738bf8f79f85871736e196d94d2295dad1",
+    "edition": 3,
+    "date": 1735949976064,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Kakampink"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Oreo"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Focus"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Blueberry"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #4",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/4.png",
+    "dna": "73e9c6305b51de6e38a67772079b66802e8c55fc",
+    "edition": 4,
+    "date": 1735949976129,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Rouge"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Figaro"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Sleep"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Chico"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #5",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/5.png",
+    "dna": "4dc6cd21c8daf655913299dbd228d0fd39a9b924",
+    "edition": 5,
+    "date": 1735949976196,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Serenity"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Felix"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Lemon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #6",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/6.png",
+    "dna": "dc47613ec851b5496035e1ab635ca16f5e7f268f",
+    "edition": 6,
+    "date": 1735949976256,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Peanut"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Angel"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Smoke"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #7",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/7.png",
+    "dna": "ee46f5432a8bcb2e313e1bb527ec054fb1563ef0",
+    "edition": 7,
+    "date": 1735949976320,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Green Forest"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Ginger"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Moonlight Pink"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Smoke"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #8",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/8.png",
+    "dna": "c77152543e6bbccfd2a3b8f512e54c533d587acb",
+    "edition": 8,
+    "date": 1735949976373,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Olive"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Piper"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Focus"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Stream"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #9",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/9.png",
+    "dna": "4e421f79d843a0ba8cd6dc87c173a505a4c0c98d",
+    "edition": 9,
+    "date": 1735949976428,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Summer"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Oliver"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Ninja Eyes 3"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Doraemon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #10",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/10.png",
+    "dna": "8b9e51196b608a2bcd413432938c76c54dced7a7",
+    "edition": 10,
+    "date": 1735949976509,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Kimerran"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Sushi"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Uno"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Blueberry"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #11",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/11.png",
+    "dna": "d81f62ab6164996dcd1ab8768f878b640c358b17",
+    "edition": 11,
+    "date": 1735949976568,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Celeste"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Clover"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cuteee Cherry"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Doraemon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #12",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/12.png",
+    "dna": "2a82916b756abc475246cbe95972b80c608261e6",
+    "edition": 12,
+    "date": 1735949976633,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Vintage"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Gumdrop"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Focus"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Snoop"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #13",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/13.png",
+    "dna": "ee204be768a412fad00df9cce018b10b522c479e",
+    "edition": 13,
+    "date": 1735949976686,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Kakampink"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Barley"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Uno"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Doraemon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #14",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/14.png",
+    "dna": "340778e415d3f82794375782ceb50054de7e2c0d",
+    "edition": 14,
+    "date": 1735949976760,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Dear Ex"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Mocha"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cuteee Lime"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Urban"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #15",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/15.png",
+    "dna": "bb31eef5ab0c08241514c5446f76cb1f52a0628d",
+    "edition": 15,
+    "date": 1735949976813,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Christmas"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Angel"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "RIP"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Lemon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #16",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/16.png",
+    "dna": "f547dafffd20de75026fd7ab56dabb3a39005e78",
+    "edition": 16,
+    "date": 1735949976864,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Coffee"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Velvet"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Coolit"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Uchiha"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #17",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/17.png",
+    "dna": "990fc710c9e500e91603a63c3e2572e01519d541",
+    "edition": 17,
+    "date": 1735949976919,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Classic"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Garfield"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Focus"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Doraemon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #18",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/18.png",
+    "dna": "ed798e542b5ebfa25ef0cfff13acbaea678d7998",
+    "edition": 18,
+    "date": 1735949976970,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Fragile"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Felix"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "RIP"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Plum"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #19",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/19.png",
+    "dna": "24b3e74a149968bb643eb4590f1e8744ee82ba80",
+    "edition": 19,
+    "date": 1735949977032,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "OverseasCatWorker"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Seymour"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Double Vision"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Kayumanggi"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #20",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/20.png",
+    "dna": "4202abd2d76b3d811383b811e8a3bbbadc40e9e7",
+    "edition": 20,
+    "date": 1735949977083,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Carrot"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Stella"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Focus"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Lemon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #21",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/21.png",
+    "dna": "ed3dab0212b05e39c6205cd9dc1989f7d33f7cc5",
+    "edition": 21,
+    "date": 1735949977141,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Lucky"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Coolit"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Ocean"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #22",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/22.png",
+    "dna": "793fafddc4c88143ea8f7b509deb07f6092860ff",
+    "edition": 22,
+    "date": 1735949977191,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Universe"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Cheddar"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Double Vision"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Cloud"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #23",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/23.png",
+    "dna": "6d5517a8a979b58fabbcc47ad29716aac30f3948",
+    "edition": 23,
+    "date": 1735949977243,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Fragile"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Lucky"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cutee Angel"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Ocean"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #24",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/24.png",
+    "dna": "0a96f77e57510760307dea465206bd386bcba837",
+    "edition": 24,
+    "date": 1735949977296,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Carrot"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Felix"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cutee Mango"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Urban"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #25",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/25.png",
+    "dna": "ea23ef7b692ea6cc36ddc8652cc21025e365e886",
+    "edition": 25,
+    "date": 1735949977348,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Midnight"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Velvet"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Focus"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Forest"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #26",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/26.png",
+    "dna": "3d6402510f073688329a8b7f634079c837dd7426",
+    "edition": 26,
+    "date": 1735949977402,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Spring"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Stella"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Moonlight Luna"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Cloud"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #27",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/27.png",
+    "dna": "8e509f3dd02f967d8fed1d5d6cf477f287642408",
+    "edition": 27,
+    "date": 1735949977451,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Sunset"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Ginger"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Focus"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Cloud"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #28",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/28.png",
+    "dna": "01ed89da2d3345549f953fbd72948b7638e0379a",
+    "edition": 28,
+    "date": 1735949977507,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Midnight"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Snowball"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Sleep"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Snoop"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #29",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/29.png",
+    "dna": "374d1c5a40ed2fdd2a4def10bf939fdba23fa3dd",
+    "edition": 29,
+    "date": 1735949977559,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Green Forest"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Matcha"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Moonlight Green"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Chico"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #30",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/30.png",
+    "dna": "2216f0d2331eedb864d3de143e9e90471b6d1670",
+    "edition": 30,
+    "date": 1735949977611,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Olive"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Snowball"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Coolit"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Cloud"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #31",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/31.png",
+    "dna": "393dd3dc48c3818bfe9e3c0a0a6cc8639a554b72",
+    "edition": 31,
+    "date": 1735949977663,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Classic"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Barley"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Focus"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Cloud"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #32",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/32.png",
+    "dna": "cde637794bc6bcf838cfb3eb9c24a21deeb9e035",
+    "edition": 32,
+    "date": 1735949977714,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Serenity"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Gizmo"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Dizzy"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Ocean"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #33",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/33.png",
+    "dna": "51aae54fde1b8626a141d3aeece16e10e4446ff8",
+    "edition": 33,
+    "date": 1735949977768,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Carrot"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Chester"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Moonlight Luna"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Urban"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #34",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/34.png",
+    "dna": "9e0f576db5e144af3742bfdf35dd660ec8df0c83",
+    "edition": 34,
+    "date": 1735949977821,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Kakampink"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blu"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Dizzy"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Doraemon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #35",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/35.png",
+    "dna": "6f53182f69aa8c2731321a31c30ee8f84ff58374",
+    "edition": 35,
+    "date": 1735949977879,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Neon"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Figaro"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Focus"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Lemon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #36",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/36.png",
+    "dna": "8b705439daf2bd28acf30b6a4b62b17f2647972e",
+    "edition": 36,
+    "date": 1735949977932,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Neon"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Oreo"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cuteee"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Lemon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #37",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/37.png",
+    "dna": "22b771aa7bd6356d1cba5713fafb9d63ad3efc7e",
+    "edition": 37,
+    "date": 1735949977982,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Spring"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Matcha"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Mango"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #38",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/38.png",
+    "dna": "865ec96b454c843ce37fea8a761d053ecf75df9d",
+    "edition": 38,
+    "date": 1735949978037,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Midnight"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Sushi"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Sleep"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Urban"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #39",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/39.png",
+    "dna": "cd97e1d370c14fdcff93feca41543cc5964486f5",
+    "edition": 39,
+    "date": 1735949978089,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Olive"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Tuna"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Dizzy"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Whale"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #40",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/40.png",
+    "dna": "143e2da58a1502e5ef67db01cc1f52f9e4cb0baa",
+    "edition": 40,
+    "date": 1735949978143,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Fragile Purple"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Ginger"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Focus"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Sakura"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #41",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/41.png",
+    "dna": "95fc91ac6553b23e289afb75523fcd32aa461c90",
+    "edition": 41,
+    "date": 1735949978196,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Midnight"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Chester"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cupid"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Blueberry"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #42",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/42.png",
+    "dna": "d6cf0c3c9253372a094c93574e72f9fd738d08df",
+    "edition": 42,
+    "date": 1735949978252,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Olive"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Figaro"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Focus"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Cloud"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #43",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/43.png",
+    "dna": "9587ba06ec6e566d43c882931fe7e4b202fcf32b",
+    "edition": 43,
+    "date": 1735949978301,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Seaweed"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Milo"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Kuro Mind"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Lemon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #44",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/44.png",
+    "dna": "a647adf9747fe35f4c3d90dc259545670fe0ba0c",
+    "edition": 44,
+    "date": 1735949978353,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Olive"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Sushi"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Ninja Eyes 5"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Forest"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #45",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/45.png",
+    "dna": "6b16f6ac77140f1793956fa085d8f2ca839931c3",
+    "edition": 45,
+    "date": 1735949978405,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Christmas"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Tuna"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cuteee Cherry"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Doraemon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #46",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/46.png",
+    "dna": "060864dd9cfd24133011fd29985ad1f90009be8c",
+    "edition": 46,
+    "date": 1735949978454,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Summer"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Ginger"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cuteee"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Cloud"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #47",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/47.png",
+    "dna": "4cdb2f2e353603a448359373cd1acc64f744d446",
+    "edition": 47,
+    "date": 1735949978509,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Mauve"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Felix"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Whale"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #48",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/48.png",
+    "dna": "aabc81a9c5d752b1e63f87b60032fd024565e02d",
+    "edition": 48,
+    "date": 1735949978559,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Ininjan"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Nova"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Uno"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Doraemon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #49",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/49.png",
+    "dna": "fb71a6f8836934a2ef233a549a016dccebfa6ec9",
+    "edition": 49,
+    "date": 1735949978614,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Neon"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Felix"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Moonlight Luna"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Kayumanggi"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #50",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/50.png",
+    "dna": "fe1e85557ad6a438bd48f58b1827e357db5b7a66",
+    "edition": 50,
+    "date": 1735949978666,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Blackbox"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Cheddar"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "RIP"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Blueberry"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #51",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/51.png",
+    "dna": "a2426525f4ce84810f3f1f34dfbc3447d48242c1",
+    "edition": 51,
+    "date": 1735949978716,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Midnight"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Mocha"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Kuro Mind"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Sakura"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #52",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/52.png",
+    "dna": "3add6d5935f66db22b22a9e5012eea15126d5ccc",
+    "edition": 52,
+    "date": 1735949978769,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Signage"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Pepper"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Moonlight Green"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Blueberry"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #53",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/53.png",
+    "dna": "a1b9942ae74900b203f427a95ea38f26755a9804",
+    "edition": 53,
+    "date": 1735949978821,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Classic"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Ginger"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Sleep"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Ocean"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #54",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/54.png",
+    "dna": "6f63045f761dfd2e231af29d5721f41ab561fcab",
+    "edition": 54,
+    "date": 1735949978875,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Pet Shop"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Oliver"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Kuro Mind"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Mango"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #55",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/55.png",
+    "dna": "fe14ad4508281f63cc260df8845e22bef8b07632",
+    "edition": 55,
+    "date": 1735949978926,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Coffee"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Shadow"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Ninja Eyes 3"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Ocean"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #56",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/56.png",
+    "dna": "2152e62774798fd26b83dbcc8b217e4f872cb9d1",
+    "edition": 56,
+    "date": 1735949978983,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Fragile Purple"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blu"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Kayumanggi"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #57",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/57.png",
+    "dna": "61272bebe38303648b001569c1e16cf2c1f97791",
+    "edition": 57,
+    "date": 1735949979035,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Kakampink"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Matcha"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Moonlight Blue"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Ocean"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #58",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/58.png",
+    "dna": "d73405e5de7a230fab0b449aea354815ba39197d",
+    "edition": 58,
+    "date": 1735949979088,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Carrot"
+      },
+      {
+        "trait_type": "Head",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Doraemon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #59",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/59.png",
+    "dna": "7f6f60e205d2367d1f84006468471330e1fb0a3a",
+    "edition": 59,
+    "date": 1735949979142,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Fragile"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Max"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cuteee Cherry"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Lemon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #60",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/60.png",
+    "dna": "b7618da12e911af62f0be6f37b74932e12580eb4",
+    "edition": 60,
+    "date": 1735949979193,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Christmas"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Lola"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cuteee Lime"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Cloud"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #61",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/61.png",
+    "dna": "74da11df47c7d28653c4e0c55b60bbcf8361ec09",
+    "edition": 61,
+    "date": 1735949979247,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Fragile Purple"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Ginger"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Coolit"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Doraemon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #62",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/62.png",
+    "dna": "494e56a975b14963df2f9d7d48e7a42e8812da3a",
+    "edition": 62,
+    "date": 1735949979299,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Green Forest"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Gizmo"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Focus"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Plum"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #63",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/63.png",
+    "dna": "aeca5df5fece7d158bc0b6423dce328b1eb3d83a",
+    "edition": 63,
+    "date": 1735949979354,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Celeste"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Stella"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cupid"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Cloud"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #64",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/64.png",
+    "dna": "4a832bb5843dcc24058dbf291750e165730b4e1b",
+    "edition": 64,
+    "date": 1735949979403,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Seaweed"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Shadow"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Ninja Eyes 4"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Blueberry"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #65",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/65.png",
+    "dna": "2ec2752cafe56fe04c030d2e038423f9fa103265",
+    "edition": 65,
+    "date": 1735949979454,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Celeste"
+      },
+      {
+        "trait_type": "Head",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Ninja Eyes 4"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Mango"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #66",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/66.png",
+    "dna": "cf9eabb9ad8831056910966516a45fb9413e86e0",
+    "edition": 66,
+    "date": 1735949979507,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Pet Shop"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Velvet"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cutee Angel"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Plum"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #67",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/67.png",
+    "dna": "c0d43e13c1dcbe47ebcd752fbac6c86687dfdb29",
+    "edition": 67,
+    "date": 1735949979557,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Spring"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Nightmode"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Urban"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #68",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/68.png",
+    "dna": "88cda5defecfac38a8aa6436b61a0e9475a8fa40",
+    "edition": 68,
+    "date": 1735949979609,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Summer"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Mocha"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "RIP"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Lemon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #69",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/69.png",
+    "dna": "15de3a064638647cdc473e930c5b65d7bb201fb5",
+    "edition": 69,
+    "date": 1735949979660,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Christmas"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Oreo"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Ninja Eyes 4"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Ocean"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #70",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/70.png",
+    "dna": "5e16345d3bceba0d96454e3f04331f587ec8ec50",
+    "edition": 70,
+    "date": 1735949979715,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Fragile Purple"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "RIP"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Urban"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #71",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/71.png",
+    "dna": "8d4c4efe9fee8334d08f983c075a308c4371d3d7",
+    "edition": 71,
+    "date": 1735949979777,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Sky"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Finn"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cutee Mango"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Ocean"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #72",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/72.png",
+    "dna": "2b92f5d03b81d34ce8e0f1718c76e91d80cedff2",
+    "edition": 72,
+    "date": 1735949979830,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Peanut"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Sushi"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Lemon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #73",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/73.png",
+    "dna": "7cc2c70e84bfc865e7ad6b9164daf1b31659ccb1",
+    "edition": 73,
+    "date": 1735949979883,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Kakampink"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Luna"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Ninja Eyes 3"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Blueberry"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #74",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/74.png",
+    "dna": "767d8d524aad3cc7e709a4f67a70a178089fc7cf",
+    "edition": 74,
+    "date": 1735949979936,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Fragile Purple"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Sushi"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Moonlight Pink"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Whale"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #75",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/75.png",
+    "dna": "53801f4018decab8a2185374ee7033dba0fa444e",
+    "edition": 75,
+    "date": 1735949979991,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Peanut"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Cheddar"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cutee Angel"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Lemon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #76",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/76.png",
+    "dna": "fa46eac8037f1623b58e888979ed1e09b9f51244",
+    "edition": 76,
+    "date": 1735949980044,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Green Forest"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Snowball"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Uno"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Mango"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #77",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/77.png",
+    "dna": "56df271597b72c0c4e8370cfbf53a0cc851b6639",
+    "edition": 77,
+    "date": 1735949980099,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Nebula"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Sleep"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Kayumanggi"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #78",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/78.png",
+    "dna": "14ed34488450b247a1ddecfc689b5e2d29ef6356",
+    "edition": 78,
+    "date": 1735949980150,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Mustard"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Matcha"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Sleep"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Whale"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #79",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/79.png",
+    "dna": "e1c44a317a3b25cd1674bf0ff54557153076b163",
+    "edition": 79,
+    "date": 1735949980202,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Midnight"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Barley"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Sakura"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #80",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/80.png",
+    "dna": "6a48264d6a1247b4f08dab462e82a96ad398ead1",
+    "edition": 80,
+    "date": 1735949980256,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Pet Shop"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Stella"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "RIP"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Plum"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #81",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/81.png",
+    "dna": "21b2e1cd42001ea892b5445a860a8bb1c7f43140",
+    "edition": 81,
+    "date": 1735949980310,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Caution"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Sushi"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cuteee"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Plum"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #82",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/82.png",
+    "dna": "6e4a8e6712b6af5d045aed073b65986427e710c5",
+    "edition": 82,
+    "date": 1735949980367,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Neon"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blu"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Ninja Eyes 5"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Sakura"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #83",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/83.png",
+    "dna": "337c922ee46830735459ce80d92b611e4b95c398",
+    "edition": 83,
+    "date": 1735949980419,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Blackbox"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Lola"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Focus"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Blueberry"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #84",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/84.png",
+    "dna": "b15110442d7aec5a28671ebb57b0ea528e1fb97a",
+    "edition": 84,
+    "date": 1735949980474,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Universe"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Felix"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cuteee"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Plum"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #85",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/85.png",
+    "dna": "a1431cb7efa23a369ceebb788993c19eca5a0c53",
+    "edition": 85,
+    "date": 1735949980535,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Spring"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Milo"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Blueberry"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #86",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/86.png",
+    "dna": "3182bf8b4eb22e7c67348639f19bda5a885a5c1a",
+    "edition": 86,
+    "date": 1735949980587,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Fragile Purple"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Matcha"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Focus"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Doraemon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #87",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/87.png",
+    "dna": "d549dfca793e5ccef4405fc09bcbff09cdc1cfda",
+    "edition": 87,
+    "date": 1735949980642,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Sky"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Gumdrop"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "RIP"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Plum"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #88",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/88.png",
+    "dna": "3f07a1d5d1a243a493c57a83267aa78c41466e49",
+    "edition": 88,
+    "date": 1735949980694,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Dear Ex"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Mocha"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Moonlight Blue"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Lemon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #89",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/89.png",
+    "dna": "eed3c72342f45f493e2eb063975676015e0949c2",
+    "edition": 89,
+    "date": 1735949980749,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Celeste"
+      },
+      {
+        "trait_type": "Head",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Uno"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Mango"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #90",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/90.png",
+    "dna": "5b6da8e3bab1a0bb5eae23d40251a7aae37bd907",
+    "edition": 90,
+    "date": 1735949980803,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Lime"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Pepper"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "RIP"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Cloud"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #91",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/91.png",
+    "dna": "e2ce53c8927163dcc59a615211072f5dae4830bd",
+    "edition": 91,
+    "date": 1735949980858,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Fragile"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Matcha"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Kimerran"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Snoop"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #92",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/92.png",
+    "dna": "2cedce008d154f411b389b3e5f8913d305b36b10",
+    "edition": 92,
+    "date": 1735949980911,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "OverseasCatWorker"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Oliver"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Sleep"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Mango"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #93",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/93.png",
+    "dna": "39502e3372873ba0b095c4b5543beaf804b5e9db",
+    "edition": 93,
+    "date": 1735949980970,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Caution"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Velvet"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Ninja Eyes 3"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Mango"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #94",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/94.png",
+    "dna": "083191a708e8a9bb1d5cb1782d2ac5ed4fc5fa27",
+    "edition": 94,
+    "date": 1735949981025,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Classic"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Kiki"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Focus"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Snoop"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #95",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/95.png",
+    "dna": "c3dc76d46945ab9ae6973c0144047ecbc86b1c52",
+    "edition": 95,
+    "date": 1735949981076,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Classic"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Loki"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Ninja Eyes 2"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Urban"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #96",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/96.png",
+    "dna": "c0006b0cd4134a61c01cb227235a33b60dbc9384",
+    "edition": 96,
+    "date": 1735949981130,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Coffee"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Grumpy"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cuteee"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Blueberry"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #97",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/97.png",
+    "dna": "05e98149e04982f68280dd6dbf090ca2796c830d",
+    "edition": 97,
+    "date": 1735949981186,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Fragile"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Mocha"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Focus"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Whale"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #98",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/98.png",
+    "dna": "752c45e3206a4465aef9f6c652c5de6cdeff1f2f",
+    "edition": 98,
+    "date": 1735949981243,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "OverseasCatWorker"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Oliver"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cutee Angel"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Blueberry"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #99",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/99.png",
+    "dna": "80d07ca16197b931079bb15bc1702f82fa84c425",
+    "edition": 99,
+    "date": 1735949981300,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Classic"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Tom"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Ninja Eyes 4"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Blueberry"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #100",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/100.png",
+    "dna": "8881225cd3ccc7893246898411602b5a08343463",
+    "edition": 100,
+    "date": 1735949981363,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Canary"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Snowball"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cutee Angel"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Cloud"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #101",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/101.png",
+    "dna": "155f83141221d93ea33ee1249934aa1d666b4936",
+    "edition": 101,
+    "date": 1735949981417,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Classic"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Felix"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Dizzy"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Doraemon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #102",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/102.png",
+    "dna": "c5909436f1006c8c098317cc46c5a6056e172650",
+    "edition": 102,
+    "date": 1735949981471,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Spring"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Snowball"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "RIP"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Blueberry"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #103",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/103.png",
+    "dna": "502c0ccf30b3662e49cbf1d695e1c8e83259259e",
+    "edition": 103,
+    "date": 1735949981530,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Peanut"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Max"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Focus"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Lemon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #104",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/104.png",
+    "dna": "3b81c2f0684837f25993914a1827bf2974bd28ce",
+    "edition": 104,
+    "date": 1735949981584,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Signage"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Rocky"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Dizzy"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Kayumanggi"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #105",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/105.png",
+    "dna": "58a9566467c1d6c263da476ce030c4a42056b593",
+    "edition": 105,
+    "date": 1735949981646,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Universe"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Forest"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Dizzy"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Lemon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #106",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/106.png",
+    "dna": "d8d11933ee1c5dd078e50a6130d9671735e77820",
+    "edition": 106,
+    "date": 1735949981699,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Peanut"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Grumpy"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cutee Angel"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Uzumaki"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #107",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/107.png",
+    "dna": "1adeb03847ae0ab007ef2e2967c7a5f7caffac6a",
+    "edition": 107,
+    "date": 1735949981753,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Sakura"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Ginger"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Sakura"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #108",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/108.png",
+    "dna": "55d71267ae66c33409ea163d8c137b2703c57b5c",
+    "edition": 108,
+    "date": 1735949981806,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Summer"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Lola"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Nevermind"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Lemon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #109",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/109.png",
+    "dna": "c0ab39d38f69196ed383a7097c331e33fbb2e9ea",
+    "edition": 109,
+    "date": 1735949981860,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "OverseasCatWorker"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Matcha"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Cutee Mango"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Doraemon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #110",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/110.png",
+    "dna": "5b0ddc2084f5a62ed39fbeab75e356ca5112d20c",
+    "edition": 110,
+    "date": 1735949981915,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Spring"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Garfield"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Moonlight Pink"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Chico"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Boxed Cats of Testnets #111",
+    "description": "A collection of 111 Cutie Patootie Boxed Cats in Testnets",
+    "image": "https://raw.githubusercontent.com/kimerran/boxedcats-testnets/refs/heads/main/images/111.png",
+    "dna": "263a899205cea19f1ea858e774f66a1bc6861ac0",
+    "edition": 111,
+    "date": 1735949981968,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "soon"
+      },
+      {
+        "trait_type": "Box",
+        "value": "Pet Shop"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Mocha"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Anima Sleep"
+      },
+      {
+        "trait_type": "Paw",
+        "value": "Snoop"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
